@@ -26,10 +26,11 @@ enum TokenKind {
 
 	NULL // null
 	THIS // this
-	MAP // map
+	MAP  // map
 
 	PACKAGE // package
 	USE     // use
+	IMPORT  // import
 	AS      // as
 
 	PUB // pub
