@@ -5,6 +5,8 @@ pub (
     )
     
     let (
+        filter: interface
+        
         Tokens: method(tt: TokenType) -> filter
 
         decl: method(f: filter)
